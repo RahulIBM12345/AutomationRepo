@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/rahul/IdeaProjects/Maven_Project_1/src/test/java/testng/parallelexecution/ParallelTesting.java"><classes>
+        <class name="testng.parallelexecution.ParallelTesting">
+            <methods>
+                <include name="testCase1"/>
+                <include name="testCase2"/>
+                <include name="testCase3"/>
+            </methods>
+        </class>
+    </classes>
+    </test>
+</suite>

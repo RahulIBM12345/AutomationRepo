@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="5" parallel="classes" thread-count="2" name="C:/Users/rahul/IdeaProjects/Maven_Project_1/src/test/java/testng/paramerisation1/DataProviderExcelFile.java">
+        <classes>
+            <class name="testng.paramerisation1.DataProviderExcelFile">
+            </class>
+        </classes>
+    </test>
+</suite>
