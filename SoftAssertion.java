@@ -33,5 +33,7 @@ public class SoftAssertion {
     @Test
     public void B() {
         System.out.println("Hi");
+        System.out.println("title should be match");
+
     }
 }
