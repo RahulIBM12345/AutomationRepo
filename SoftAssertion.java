@@ -34,6 +34,8 @@ public class SoftAssertion {
     public void B() {
         System.out.println("Hi");
         System.out.println("title should be match");
+        System.out.println("Hi");
+            
 
     }
 }
